@@ -1,0 +1,11 @@
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\bin\Debug\netcoreapp3.1\CekKeturunan.exe
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\bin\Debug\netcoreapp3.1\CekKeturunan.deps.json
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\bin\Debug\netcoreapp3.1\CekKeturunan.runtimeconfig.json
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\bin\Debug\netcoreapp3.1\CekKeturunan.runtimeconfig.dev.json
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\bin\Debug\netcoreapp3.1\CekKeturunan.dll
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\bin\Debug\netcoreapp3.1\CekKeturunan.pdb
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\obj\Debug\netcoreapp3.1\CekKeturunan.AssemblyInfoInputs.cache
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\obj\Debug\netcoreapp3.1\CekKeturunan.AssemblyInfo.cs
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\obj\Debug\netcoreapp3.1\CekKeturunan.dll
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\obj\Debug\netcoreapp3.1\CekKeturunan.pdb
+E:\Amikom\SEMESTER 2\Pemprograman ( Kamarudin )\UAS\Cek Keturunan\CekKeturunan\CekKeturunan\obj\Debug\netcoreapp3.1\CekKeturunan.csprojAssemblyReference.cache

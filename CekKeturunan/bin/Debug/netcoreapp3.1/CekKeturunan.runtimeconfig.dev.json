@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Satria\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Satria\\.nuget\\packages"
+    ]
+  }
+}
